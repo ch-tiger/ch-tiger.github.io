@@ -4,7 +4,7 @@ SEOTitle: CH-Tiger的博客 | CH-Tiger Blog
 header-img: img/home-bg.jpg
 email: 1170968701@qq.com
 description: "这里是 @CH-Tiger 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "CH-Tiger, Tiger, CH, Kedy, @Tiger, CH-Tiger的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计, AI, DeepLearning"
+keyword: "CH-Tiger, Tiger, CH, Kedy, @Tiger, CH-Tiger的博客, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计, AI, DeepLearning"
 url: "https://ch-tiger.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
